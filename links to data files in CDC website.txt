@@ -1,0 +1,11 @@
+Female Respondent Data File (2002):
+ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2002FemResp.dat
+
+Female Pregnancy Data File (2002):
+ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2002FemPreg.dat
+
+Female Respondent Program Statements / Dictionary file (2002):
+ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/2002FemResp.dct
+
+Female Pregnancy Program Statements / Dictionary file (2002):
+ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/2002FemPreg.dct
