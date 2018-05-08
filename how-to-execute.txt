@@ -1,4 +1,5 @@
-Make sure the 4 data / meta-data files and the 2 python scripts (ML_predict_childs_by_income.py, read_data_files.py) are place in the running folder.
+Make sure the 4 data / meta-data files and the 2 python scripts (ML_predict_childs_by_income.py, read_data_files.py) 
+are place in the running folder.
 
 Import the script with its functions: 
 >>> import ML_predict_childs_by_income
