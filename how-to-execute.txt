@@ -1,14 +1,16 @@
-Make sure the 4 data / meta-data files and the 2 python scripts (ML_predict_childs_by_income.py, read_data_files.py) 
-are place in the running folder.
+Make sure the 4 data files (*.dat, *.dct) and the 2 python scripts (ML_predict_childs_by_income.py, read_data_files.py) 
+are placed in the running folder.
 
-Import the script with its functions: 
+Import the module which contains the ML functions: 
 >>> import ML_predict_childs_by_income
 
-Then adjust the hyperparams for the model and train:
+Then use the 'train_model' function and adjust the hyperparams, for example:
 >>> ML_predict_childs_by_income.train_model(
     learning_rate=0.009,
         steps=400,
         batch_size=1000
     )
     
-Look for hyperparams values which will lead to optimal convergence.
+Look for hyperparams values which will lead to optimal convergence of the model.
+
+(Note - tensorFlow requires python 3.x environment)
